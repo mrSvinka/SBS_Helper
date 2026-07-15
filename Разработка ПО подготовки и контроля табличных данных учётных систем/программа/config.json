@@ -1,0 +1,37 @@
+{
+    "last_folder": "C:/Users/vladi.DESKTOP-UDNKC5A/Desktop/Разработка ПО подготовки и контроля табличных данных учётных систем/программа/Тесты",
+    "pdf_output_format": "csv",
+    "pdf_last_paths": [],
+    "cz_last_paths": [],
+    "nd_last_paths": [],
+    "cz_key_cols": [
+        0
+    ],
+    "cz_data_cols": [
+        1,
+        2,
+        3
+    ],
+    "nd_key_cols": [
+        0
+    ],
+    "nd_data_cols": [
+        1,
+        2,
+        3
+    ],
+    "nd_duplicate_strategy": "first",
+    "excel_comparer": {
+        "main_file_index": 0,
+        "col1": "A",
+        "col2": "A",
+        "ignore_case": true,
+        "ignore_spaces": true,
+        "split_comma": false,
+        "search_mode": "matched",
+        "save_details": false,
+        "last_folder": "C:/Users/vladi.DESKTOP-UDNKC5A/Desktop/Разработка ПО подготовки и контроля табличных данных учётных систем/программа/Тесты",
+        "file1_path": "C:/Users/vladi.DESKTOP-UDNKC5A/Desktop/Разработка ПО подготовки и контроля табличных данных учётных систем/программа/Тесты/Тест_файл1.xlsx",
+        "file2_path": "C:/Users/vladi.DESKTOP-UDNKC5A/Desktop/Разработка ПО подготовки и контроля табличных данных учётных систем/программа/Тесты/Тест_файл2.xlsx"
+    }
+}
